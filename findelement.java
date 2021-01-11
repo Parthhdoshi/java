@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class GFG {
+class findelement {
 	public static void main (String[] args) {
 		//code
 		int s[] = new int[100];
